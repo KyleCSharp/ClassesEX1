@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\bin\Debug\netcoreapp3.1\ClassesEX1.exe
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\bin\Debug\netcoreapp3.1\ClassesEX1.deps.json
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\bin\Debug\netcoreapp3.1\ClassesEX1.runtimeconfig.json
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\bin\Debug\netcoreapp3.1\ClassesEX1.runtimeconfig.dev.json
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\bin\Debug\netcoreapp3.1\ClassesEX1.dll
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\bin\Debug\netcoreapp3.1\ClassesEX1.pdb
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.AssemblyInfo.cs
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.dll
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.pdb
+C:\Users\kylel\repos\ClassesEX1\ClassesEX1\obj\Debug\netcoreapp3.1\ClassesEX1.genruntimeconfig.cache
